@@ -115,6 +115,8 @@ Qualquer `push` ou `merge` para a branch `master` (ou `main`) irá acionar um no
 
 # :bug: Problemas
 
-Sinta-se a vontade em procurar ou corrigir bugs encontrados!
+Sinta-se à vontade para registrar problemas caso encontre bugs ou tenha sugestões de melhoria!
 
-Feito Por Elton Vitoretti Jr. Entre em contato: [LinkedIn](www.linkedin.com/in/elton-vitoretti-jr)
+<p align="center"> Feito com 💜 por <strong>Elton Vitoretti Jr</strong>.
+
+Entre em contato: <a href="https://www.google.com/search?q=https://www.linkedin.com/in/elton-vitoretti-jr">LinkedIn</a> </p>
